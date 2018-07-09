@@ -10,7 +10,7 @@ This work can be cited as follows:
 <pre>
 @inproceedings{mayer2018touchinacar,
 title = {The Effect of Road Bumps on Touch Interaction in Cars},
-author = {Sven Mayer, Huy Viet Le, Alessandro Nesti, Niels Henze, Heinrich H. Buelthoff, Lewis L. Chuang},
+author = {Sven Mayer, Huy Viet Le, Alessandro Nesti, Niels Henze, Heinrich H. B{\"u}lthoff, Lewis L. Chuang},
 year = {2018},
 booktitle = {Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},
 publisher = {ACM},
